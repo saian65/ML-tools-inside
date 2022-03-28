@@ -1,2 +1,2 @@
 # ML-tools-inside
-Some Ml algorythms wtitten by hands to better undestand
+Some Ml algorithms wtitten by hands to better undestand
